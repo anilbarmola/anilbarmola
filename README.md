@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anilbarmola
 - 👀 I’m Data Science Enthusiast
-- 🌱 I’m currently| Machine Learning | Python | Numpy| Matplotlib | Pandas | MySQL | Power BI |
+- 🌱 I’m currently Working on | Machine Learning | Python | Numpy| Matplotlib | Pandas | MySQL | Power BI |
 - 📫 https://www.linkedin.com/in/anil-barmola-a62388233/
 
 <!---
