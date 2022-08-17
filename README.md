@@ -12,7 +12,7 @@
 - 💬 Ask me about **Python & Web Development**
 
 - 📫 How to reach me **anilbarmola008@gmail.com**
-<img align="right" height="300px" width="360px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" height="280px" width="450px" src="https://stockmarketexperts.co.in/wp-content/uploads/2021/11/stock_anim.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anil-barmola-a62388233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anil-barmola-a62388233/" height="30" width="40" /></a>
