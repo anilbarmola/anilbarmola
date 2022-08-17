@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anil</h1>
 <h3 align="center">A passionate Data science & ML developer from India</h3>
-<img align="right" height="220px" width="260px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilbarmola" alt="anilbarmola" /></a> </p>
 
 - 🔭 I’m currently working on [Recommendation-project](https://github.com/anilbarmola/TMDV-5000-movie-Recommendation--project/blob/main/EDA.ipynb)
@@ -12,7 +12,7 @@
 - 💬 Ask me about **Python & Web Development**
 
 - 📫 How to reach me **anilbarmola008@gmail.com**
-
+<img align="right" height="300px" width="360px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anil-barmola-a62388233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anil-barmola-a62388233/" height="30" width="40" /></a>
