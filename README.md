@@ -1,9 +1,8 @@
-<img align="right" height="290px" width="700px" src="https://static.wixstatic.com/media/3eee0b_bc230abd081f486f9f767abc7c674157~mv2.gif">
 <h1 align="center">Hi 👋, I'm Anil</h1>
 <h3 align="center">A passionate Data science & ML developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilbarmola" alt="anilbarmola" /></a> </p>
-
+<img align="center" height="290px" width="700px" src="https://static.wixstatic.com/media/3eee0b_bc230abd081f486f9f767abc7c674157~mv2.gif">
 - 🔭 I’m currently working on [Recommendation-System](https://github.com/anilbarmola/TMDV-5000-movie-Recommendation--project/blob/main/EDA.ipynb)
 
 - 🌱 I’m currently learning **ML Libraries & Algorithms**
