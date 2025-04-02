@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML Libraries & Algorithms**
 
-- 👨‍💻 All of my projects are available at [[https://datasolution.host/](https://datasolution.host/)](https://transcentech.in/)
+- 👨‍💻 All of my projects are available at (https://transcentech.in/)
 
 - 💬 Ask me about **Python & Web Development**
 
